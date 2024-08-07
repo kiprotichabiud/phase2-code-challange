@@ -85,7 +85,7 @@ const TransactionForm = ({ transactions, setTransactions }) => {
                         required
                     />
                 </div>
-                <button className='bg-orange-500 hover:bg-orange-700 text-white font-bold px-5 py-2 rounded m-2' type="submit" >Add </button>
+                <button className='bg-orange-500 hover:bg-orange-800 text-white font-bold px-5 py-2 rounded m-2' type="submit" >Add </button>
             </form>
         </div>
     );
